@@ -1,0 +1,23 @@
+.quiz-form{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 50px;
+}
+.my-5{
+    border: 2px solid rgb(27, 241, 213, 227);
+    border-radius: 20px;
+    padding: 10px;
+}
+.form-check:hover{
+    cursor: pointer;
+    border: 1px solid crimson;
+    background-color: greenyellow;
+    color: black;
+}
+.btn:hover{
+    background-color: green;
+    color: white;
+    border: none ;
+    outline: none;
+}
